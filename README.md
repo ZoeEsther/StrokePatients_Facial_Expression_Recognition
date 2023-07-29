@@ -3,7 +3,7 @@
 This project is a facial expression recognition algorithm for stroke patients, which is designed with ViT as the baseline.
 Please refer to the paper at https://doi.org/10.3390/brainsci12121626
 
-[Note] This code is a simple implementation version of the algorithm described in this paper.
+## [Note] This code is a simple implementation version of the algorithm described in this paper.
 
 ![image](https://github.com/ZoeEsther/StrokePatients_Facial_Expression_Recognition/assets/119051069/5a66620a-905b-4c4c-ad54-10c31596cd58)
 
